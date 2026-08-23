@@ -1,405 +1,380 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,45:4C1D95,75:6D28D9,100:312E81&height=240&section=header&text=RAMKUMAR%20S&fontSize=48&fontColor=FFFFFF&fontAlignY=34&animation=fadeIn&desc=SOFTWARE%20ENGINEERING%20%7C%20AI%20%2F%20ML%20%7C%20FULL%20STACK&descSize=16&descAlignY=56&descAlign=50" width="100%"/>
-
-<a href="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=800&lines=Software+Engineering+%7C+AI+%2F+ML+%7C+Full+Stack;Building+practical+software+with+product+thinking;Turning+ideas+into+usable%2C+scalable+digital+products;Always+learning.+Always+building.">
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=800&lines=Software+Engineering+%7C+AI+%2F+ML+%7C+Full+Stack;Building+practical+software+with+product+thinking;Turning+ideas+into+usable%2C+scalable+digital+products;Always+learning.+Always+building." alt="Typing SVG"/>
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=RAMKUMAR%20S&fontSize=48&fontAlignY=35&fontColor=FFFFFF&desc=SOFTWARE%20ENGINEER%20%7C%20AI%20%2F%20ML%20%7C%20FULL%20STACK&descAlignY=58&descSize=16&animation=fadeIn&color=0:0B0614,35:1A1033,65:4C1D95,100:7C3AED" width="100%"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/B.Tech-Information%20Technology-4C1D95?style=for-the-badge&logo=google-scholar&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/NPTEL-Elite-6D28D9?style=for-the-badge&logo=academia&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/Chennai-India-312E81?style=for-the-badge&logo=googlemaps&logoColor=FFFFFF"/>
+<a href="https://readme-typing-svg.demolab.com">
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=19&duration=2800&pause=900&color=C4B5FD&center=true&vCenter=true&width=850&height=45&lines=Software+Engineering+%E2%80%A2+AI%2FML+%E2%80%A2+Full+Stack;Building+useful+software%2C+not+just+code;Designing+better+interfaces+and+smarter+products;Learning+fast.+Building+faster." alt="Typing animation"/>
+</a>
 
 <br/><br/>
 
 <a href="https://ramkumars-portfolio.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
+&nbsp;
 <a href="https://www.linkedin.com/in/ramkumars18/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+&nbsp;
 <a href="mailto:ramkumarsoffl@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-6D28D9?style=for-the-badge&logo=gmail&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://github.com/Ram-kumar-S-18">
-<img src="https://img.shields.io/badge/GitHub-Profile-312E81?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Ram-kumar-S-18&label=PROFILE%20VIEWS&color=6D28D9&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/Ram-kumar-S-18?label=FOLLOWERS&style=for-the-badge&color=4F46E5&logo=github&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/github/stars/Ram-kumar-S-18?label=STARS&style=for-the-badge&color=7C3AED&logo=github&logoColor=FFFFFF"/>
-
-<br/><br/>
-
+&nbsp;
 <a href="tel:+919551733526">
-<img src="https://img.shields.io/badge/Phone-9551733526-312E81?style=for-the-badge&logo=phone&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Contact-312E81?style=for-the-badge&logo=phone&logoColor=white"/>
 </a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Ram-kumar-S-18&label=PROFILE%20VIEWS&color=7C3AED&style=flat-square"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/Ram-kumar-S-18?label=FOLLOWERS&style=flat-square&color=4C1D95&logo=github&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/github/stars/Ram-kumar-S-18?label=STARS&style=flat-square&color=6D28D9&logo=github&logoColor=white"/>
 
 </div>
 
 ---
 
-## About
+## PROFILE
 
-I am Ramkumar S, an Information Technology engineer focused on software engineering, AI-enabled applications, and full-stack product development.
+<table>
+<tr>
+<td width="58%" valign="top">
 
-I enjoy building software from the product level down to the implementation details — understanding the problem, designing the experience, writing maintainable code, integrating APIs and intelligent capabilities, and shipping solutions that are actually useful.
+### Hey, I'm Ramkumar.
 
-My work spans Python, Java, JavaScript, modern frontend development, SQL, data tooling, AI/ML concepts, cloud fundamentals, Linux, and developer tooling. I am particularly interested in the intersection of software engineering and AI, where intelligent automation can improve existing workflows rather than simply adding AI for the sake of it.
+I build software at the intersection of **engineering, product design, and AI**.
 
-I approach projects with a product-engineering mindset: clear user flows, strong interfaces, practical architecture, maintainability, performance, and continuous iteration.
+My focus is turning ideas into practical digital products — from clean interfaces and responsive web applications to AI-powered workflows and connected systems.
 
-### Open To
+I enjoy the complete journey:
 
-`Software Engineering` `AI / ML Engineering` `Full Stack Development` `Frontend Engineering` `AI-enabled Products` `Graduate Roles` `Internships` `Open Source` `Collaborations`
+**Problem → Architecture → Interface → Development → Integration → Deployment**
+
+I care about software that is not only functional, but also **usable, maintainable, intuitive, and thoughtfully designed**.
+
+<br/>
+
+**Currently focused on**
+
+`Software Engineering`
+`AI / ML`
+`Full Stack Development`
+`Product Engineering`
+`Modern Web Experiences`
+
+</td>
+
+<td width="42%" valign="top">
+
+### ENGINEERING MINDSET
+
+```text
+01  Understand the problem
+02  Simplify the experience
+03  Design the architecture
+04  Build the product
+05  Integrate intelligence
+06  Test and improve
+07  Ship
+```
+
+<br/>
+
+**Open to**
+
+`Software Engineering`
+`AI / ML`
+`Full Stack`
+`Frontend`
+`Product Engineering`
+`Open Source`
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Tech Stack
+## THE STACK
+
+<div align="center">
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,c,sql&perline=7" />
+<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,sql&theme=dark" />
+
+<br/><br/>
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=react,html,css,javascript,tailwind&perline=5" />
+<img src="https://skillicons.dev/icons?i=react,html,css,javascript,tailwind&theme=dark" />
 
-### Backend & Databases
+<br/><br/>
 
-<img src="https://skillicons.dev/icons?i=nodejs,spring,mysql,mongodb,kafka&perline=5" />
+### Backend · Data · AI
 
-### Cloud, DevOps & Tooling
+<img src="https://skillicons.dev/icons?i=nodejs,spring,mysql,mongodb,kafka,python&theme=dark" />
 
-<img src="https://skillicons.dev/icons?i=git,github,linux,aws,azure,docker,vscode,idea,maven&perline=9" />
+<br/><br/>
 
-### Data & AI Ecosystem
+### Cloud · DevOps · Tools
 
-<img src="https://skillicons.dev/icons?i=python,pandas,numpy,opencv&perline=4" />
+<img src="https://skillicons.dev/icons?i=git,github,linux,docker,aws,azure,vscode,idea,maven&theme=dark" />
 
----
-
-## AI / ML Expertise
-
-| Domain | Proficiency | Details |
-|---|---|---|
-| AI Application Development | Applied | Integrating AI capabilities into practical software products and web systems |
-| Machine Learning | Working Knowledge | Understanding model-driven workflows, data preparation, evaluation concepts, and applied experimentation |
-| Generative AI | Applied | Exploring AI-assisted applications, automation, prompt-driven workflows, and intelligent product features |
-| NLP | Working Knowledge | Familiarity with natural-language processing concepts and AI-powered text workflows |
-| Data Analytics | Applied | Python, Pandas, NumPy, SQL, Excel, and Power BI for analysis and insight generation |
-| Computer Vision | Working Knowledge | Exposure to vision-driven application concepts and intelligent interfaces |
-| AI + Product Engineering | Strong Interest | Designing AI features around real user problems, workflows, and product value |
+</div>
 
 ---
 
-## Featured Projects
+## WHAT I BUILD
 
-<details>
-<summary><strong>01 · AR Guided Industrial Training System</strong></summary>
+<table>
+<tr>
+<td width="33%" valign="top">
 
-### AR Guided Industrial Training System
+### AI-POWERED SOFTWARE
 
-An augmented-reality training platform designed to simulate industrial machine learning experiences without requiring the physical machine to be continuously available. The system connects AR interaction with embedded-system simulation to create an interactive learning environment.
+Building web experiences where AI actually improves the workflow.
 
-| Attribute | Details |
-|---|---|
-| **Stack** | AR, Embedded Systems, ESP-12E, Arduino, Sensors |
-| **Scale** | Final Year Engineering Project |
-| **Performance** | Lightweight sensor-driven interaction and real-time state simulation |
-| **Security** | Controlled device interaction and defined system interfaces |
-| **Impact** | Enables machine-oriented training through an AR-first learning experience |
-| **Repository** | [GitHub Profile](https://github.com/Ram-kumar-S-18) |
+`AI Integration`
+`Automation`
+`Prompt Engineering`
+`Intelligent Features`
 
-Core implementation areas include QR-triggered AR deployment, simulated machine controllers, humidity sensing, vibration sensing, voltage inputs, toggle switches, buttons, and communication between embedded hardware and the AR experience.
+</td>
 
-**Engineering Focus:** `AR Systems` `IoT` `Embedded Systems` `Interactive Learning` `Hardware-Software Integration`
+<td width="33%" valign="top">
+
+### FULL STACK PRODUCTS
+
+Designing applications from the interface to the backend.
+
+`React`
+`JavaScript`
+`Python`
+`Java`
+`SQL`
+
+</td>
+
+<td width="33%" valign="top">
+
+### INTERACTIVE SYSTEMS
+
+Connecting software with real-world interaction.
+
+`AR`
+`IoT`
+`Embedded Systems`
+`APIs`
+`Sensors`
+
+</td>
+</tr>
+</table>
+
+---
+
+## FEATURED WORK
+
+<details open>
+<summary><strong>01 · AR GUIDED INDUSTRIAL TRAINING SYSTEM</strong></summary>
+
+### AR + Embedded Systems + Interactive Learning
+
+A final-year engineering project that explores how **augmented reality and embedded systems** can create an interactive industrial-training experience without depending on a physical machine for every training session.
+
+The system combines AR interaction with simulated machine controls and sensor inputs.
+
+| Area              | Implementation                                                 |
+| ----------------- | -------------------------------------------------------------- |
+| Core Concept      | AR-guided industrial machine training                          |
+| Hardware          | ESP-12E, Arduino, sensors                                      |
+| Interaction       | QR-triggered AR deployment                                     |
+| Inputs            | Humidity, vibration, voltage, toggle switches, buttons         |
+| Engineering Focus | Hardware + Software integration                                |
+| Goal              | Make machine-oriented learning more accessible and interactive |
+
+**Built around:** `AR` `IoT` `Embedded Systems` `Simulation` `Interactive Learning`
 
 </details>
 
 <details>
-<summary><strong>02 · StudyPortal</strong></summary>
+<summary><strong>02 · STUDYPORTAL</strong></summary>
 
-### StudyPortal
+### A Student-Focused Learning Platform
 
-A web-based academic resource portal designed to centralize study materials and coding resources into a simple, accessible interface for students.
+A centralized web platform created to make academic and learning resources easier to access through a simple, responsive interface.
 
-| Attribute | Details |
-|---|---|
-| **Stack** | HTML, CSS, JavaScript |
-| **Scale** | Student-focused web application |
-| **Performance** | Lightweight static architecture optimized for quick access |
-| **Security** | Structured access and controlled content flow |
-| **Impact** | Simplifies access to learning resources through a centralized portal |
-| **Repository** | [GitHub Profile](https://github.com/Ram-kumar-S-18) |
+**Focus:** clean information architecture, usability, accessibility, and deployment.
 
-**Engineering Focus:** `Web Development` `UI Design` `Information Architecture` `Deployment`
+**Live:** [studyportalbyram.netlify.app](https://studyportalbyram.netlify.app/)
+
+**Built with:** `HTML` `CSS` `JavaScript`
 
 </details>
 
 <details>
-<summary><strong>03 · Personal Developer Portfolio</strong></summary>
+<summary><strong>03 · SPARKLE'25</strong></summary>
 
-### Personal Developer Portfolio
+### Futuristic Symposium Experience
 
-A personal portfolio platform built to present projects, capabilities, professional identity, and technical work through a responsive web experience.
+A custom event website created for the Sparkle'25 symposium with an immersive visual identity, responsive sections, interactive experiences, and a futuristic interface.
 
-| Attribute | Details |
-|---|---|
-| **Stack** | HTML, CSS, JavaScript |
-| **Scale** | Personal engineering portfolio |
-| **Performance** | Lightweight client-side architecture |
-| **Security** | Static delivery with minimal attack surface |
-| **Impact** | Provides a recruiter-facing overview of technical capabilities and work |
-| **Repository** | [GitHub Profile](https://github.com/Ram-kumar-S-18) |
+**Live:** [sparkle-25.netlify.app](https://sparkle-25.netlify.app/)
 
-**Live Portfolio:** [ramkumars-portfolio.netlify.app](https://ramkumars-portfolio.netlify.app/)
-
-**Engineering Focus:** `Frontend Engineering` `Responsive UI` `Portfolio Architecture` `Web Deployment`
+**Built with:** `HTML` `CSS` `JavaScript` `UI/UX` `Animation`
 
 </details>
 
 <details>
-<summary><strong>04 · Sparkle'25 Symposium Website</strong></summary>
+<summary><strong>04 · GMAIL PHISHING DETECTION EXTENSION</strong></summary>
 
-### Sparkle'25 Symposium Website
+### Browser-Based Security Automation
 
-A futuristic event platform designed for an academic symposium, combining event communication, responsive layouts, interactive sections, and a visually immersive digital identity.
+A Chrome extension concept exploring automated phishing detection directly within Gmail using browser-extension APIs, Gmail API integration, and OAuth.
 
-| Attribute | Details |
-|---|---|
-| **Stack** | HTML, CSS, JavaScript |
-| **Scale** | University Symposium Website |
-| **Performance** | Animation-conscious responsive frontend |
-| **Security** | Client-side event interface with controlled forms and navigation |
-| **Impact** | Digital presentation and information platform for the symposium |
-| **Repository** | [GitHub Profile](https://github.com/Ram-kumar-S-18) |
-
-**Live Experience:** [Sparkle'25](https://sparkle-25.netlify.app/)
-
-**Engineering Focus:** `Frontend` `UX` `Animation` `Responsive Design` `Event Technology`
+**Core areas:** `Chrome Extensions` `Gmail API` `OAuth` `JavaScript` `Security Automation`
 
 </details>
 
 <details>
-<summary><strong>05 · Gmail Phishing Detection Extension</strong></summary>
+<summary><strong>05 · DEVELOPER PORTFOLIO</strong></summary>
 
-### Gmail Phishing Detection Extension
+### Personal Engineering Portfolio
 
-A Chrome-extension concept focused on identifying potentially suspicious emails inside Gmail using the Gmail API, OAuth integration, and automated message analysis workflows.
+A continuously evolving portfolio focused on presenting projects, technical capabilities, experimentation, and a product-oriented approach to software engineering.
 
-| Attribute | Details |
-|---|---|
-| **Stack** | JavaScript, Chrome Extensions, Gmail API, OAuth |
-| **Scale** | Security-focused browser extension |
-| **Performance** | Event-driven browser workflow |
-| **Security** | OAuth-based API access and controlled extension permissions |
-| **Impact** | Explores automated phishing detection directly within the email workflow |
-| **Repository** | [GitHub Profile](https://github.com/Ram-kumar-S-18) |
+**Live:** [ramkumars-portfolio.netlify.app](https://ramkumars-portfolio.netlify.app/)
 
-**Engineering Focus:** `Browser Extensions` `API Integration` `OAuth` `Security Automation` `Gmail`
+**Built with:** `Web Development` `UI/UX` `Responsive Design` `Deployment`
 
 </details>
 
 ---
 
-## Experience
+## ENGINEERING JOURNEY
 
-### Software Engineering Job Simulation — JPMorgan Chase & Co. · Forage
-`2026`
-
-Worked through a software-engineering simulation focused on understanding and extending an existing Java/Spring-based system.
-
-- Worked with an established Maven project structure and Java 17 environment.
-- Investigated application architecture, dependencies, tests, and backend workflows.
-- Worked with Spring Boot components and Kafka-based transaction processing concepts.
-- Practiced debugging failing integration tests and tracing application-context issues.
-- Strengthened practical understanding of enterprise-style Java development and repository-based engineering workflows.
-
-**Skills:** `Java` `Spring Boot` `Maven` `Kafka` `Debugging` `Git` `Software Engineering`
+<table>
+<tr>
+<td width="25%"><strong>01</strong><br/><sub>FOUNDATIONS</sub></td>
+<td width="75%">Python · Java · JavaScript · HTML · CSS · SQL</td>
+</tr>
+<tr>
+<td><strong>02</strong><br/><sub>BUILDING</sub></td>
+<td>Web applications · Interactive interfaces · APIs · Data workflows</td>
+</tr>
+<tr>
+<td><strong>03</strong><br/><sub>ENGINEERING</sub></td>
+<td>Spring Boot · Kafka · Maven · Linux · Git · Cloud fundamentals</td>
+</tr>
+<tr>
+<td><strong>04</strong><br/><sub>INTELLIGENCE</sub></td>
+<td>AI integration · ML concepts · Automation · AI-assisted products</td>
+</tr>
+<tr>
+<td><strong>05</strong><br/><sub>NEXT</sub></td>
+<td>System design · Advanced backend engineering · Cloud-native development</td>
+</tr>
+</table>
 
 ---
 
-## Achievements
+## GITHUB ACTIVITY
 
 <div align="center">
 
-| Recognition | Details |
-|---|---|
-| **NPTEL Elite** | Earned Elite recognition through NPTEL coursework in Python for Data Science |
-| **Hackathon Selection** | Selected for the internal Smart India Hackathon process |
-| **Canva AI Workshop — 2nd Prize** | Secured second prize in a Canva AI workshop at SRMIST Vadapalani |
-| **International Mobility Program** | Participated in an international mobility program at UCSI University, Kuala Lumpur |
-| **Open Source / Engineering Growth** | Continuously building projects, completing technical learning paths, and developing production-oriented engineering skills |
+<img src="https://github-readme-stats.vercel.app/api?username=Ram-kumar-S-18&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&bg_color=0D0818&title_color=C4B5FD&text_color=CBD5E1&icon_color=8B5CF6" height="180"/>
+
+  
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ram-kumar-S-18&layout=compact&hide_border=true&langs_count=8&bg_color=0D0818&title_color=C4B5FD&text_color=CBD5E1" height="180"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=Ram-kumar-S-18&hide_border=true&background=0D0818&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=94A3B8&dates=64748B&currStreakNum=FFFFFF&sideNums=FFFFFF" width="70%"/>
 
 </div>
 
 ---
 
-## Certifications
-
-### AWS
-
-<a href="https://aws.amazon.com/certification/">
-<img src="https://img.shields.io/badge/AWS-Cloud%20Learning-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FFFFFF"/>
-</a>
-
-### Oracle
-
-<a href="https://education.oracle.com/oracle-certification/">
-<img src="https://img.shields.io/badge/Oracle-Learning%20Path-F80000?style=for-the-badge&logo=oracle&logoColor=FFFFFF"/>
-</a>
-
-### NPTEL
-
-<a href="https://nptel.ac.in/">
-<img src="https://img.shields.io/badge/NPTEL-Elite%20%7C%20Python%20for%20Data%20Science-6D28D9?style=for-the-badge&logo=academia&logoColor=FFFFFF"/>
-</a>
-
-### Cisco
-
-<a href="https://www.cisco.com/site/us/en/learn/training-certifications/certifications/index.html">
-<img src="https://img.shields.io/badge/Cisco-Networking%20%26%20Technical%20Learning-1D4ED8?style=for-the-badge&logo=cisco&logoColor=FFFFFF"/>
-</a>
-
-> Certification-provider badges above are included as learning/professional ecosystem references; individual provider certifications should only be claimed when issued and verified.
-
----
-
-## Coding Profiles
+## CONTRIBUTION GRAPH
 
 <div align="center">
 
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=FFFFFF"/>
-</a>
-<a href="https://www.geeksforgeeks.org/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-16A34A?style=for-the-badge&logo=geeksforgeeks&logoColor=FFFFFF"/>
-</a>
-<a href="https://www.hackerrank.com/">
-<img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=0D1117"/>
-</a>
-<a href="https://www.codechef.com/">
-<img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=FFFFFF"/>
-</a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ram-kumar-S-18&bg_color=0D0818&color=C4B5FD&line=8B5CF6&point=FFFFFF&area=true&area_color=4C1D95&hide_border=true&custom_title=BUILDING%20IN%20PUBLIC" width="100%"/>
 
 </div>
 
 ---
 
-## GitHub Analytics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Ram-kumar-S-18&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=CBD5E1&ring_color=6D28D9" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ram-kumar-S-18&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=A78BFA&text_color=CBD5E1&icon_color=7C3AED" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=Ram-kumar-S-18&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=CBD5E1&dates=64748B&currStreakNum=FFFFFF&sideNums=FFFFFF" />
-
-</div>
-
----
-
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ram-kumar-S-18&theme=onedark&no-frame=true&no-bg=true&margin-w=12&column=7" />
-
-</div>
-
----
-
-## Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ram-kumar-S-18&bg_color=0D1117&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&area_color=312E81&hide_border=true&custom_title=Contribution%20Activity" width="100%"/>
-
-</div>
-
----
-
-## Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Ram-kumar-S-18/Ram-kumar-S-18/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" width="100%"/>
-
-</div>
-
----
-
-## Current Focus
+## CURRENT FOCUS
 
 ```yaml
-profile:
-  name: Ramkumar S
-  role: Software Engineering | AI / ML | Full Stack
-  location: Chennai, India
+ramkumar:
+  identity:
+    - Software Engineering
+    - AI / ML
+    - Full Stack Development
+    - Product Engineering
 
-learning:
-  - Advanced Python
-  - Java and Spring Boot
-  - Data Structures & Algorithms
-  - AI / ML Engineering
-  - Cloud and DevOps fundamentals
-  - System Design
-  - Production-grade Web Development
+  learning:
+    - Advanced Python
+    - Java & Spring Boot
+    - Data Structures & Algorithms
+    - System Design
+    - AI Engineering
+    - Cloud & DevOps
 
-building:
-  - AI-enabled web applications
-  - Full-stack software products
-  - Developer tools and automation
-  - Practical engineering projects
+  building:
+    - AI-enabled applications
+    - Full-stack products
+    - Developer tools
+    - Interactive web experiences
 
-exploring:
-  - Generative AI
-  - Intelligent product experiences
-  - Cloud-native engineering
-  - Scalable backend architecture
-  - Open-source development
+  exploring:
+    - Generative AI
+    - Intelligent UX
+    - Cloud-native systems
+    - Scalable backend architecture
 
-open_to:
-  - Software Engineering roles
-  - AI / ML opportunities
-  - Full Stack opportunities
-  - Internships
-  - Open Source collaborations
-  - Product engineering projects
-````
+  open_to:
+    - Software Engineering
+    - AI / ML
+    - Full Stack
+    - Frontend Engineering
+    - Open Source
+    - Product Engineering
+```
 
 ---
 
-## Connect
+## CONNECT
 
 <div align="center">
 
-<a href="mailto:ramkumarsoffl@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-ramkumarsoffl%40gmail.com-B91C1C?style=for-the-badge&logo=gmail&logoColor=FFFFFF"/>
-</a>
-
-<a href="tel:+919551733526">
-<img src="https://img.shields.io/badge/Phone-9551733526-312E81?style=for-the-badge&logo=phone&logoColor=FFFFFF"/>
+<a href="https://ramkumars-portfolio.netlify.app/">
+<img src="https://img.shields.io/badge/PORTFOLIO-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/ramkumars18/">
-<img src="https://img.shields.io/badge/LinkedIn-ramkumars18-4F46E5?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/LINKEDIN-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:ramkumarsoffl@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Ram-kumar-S-18">
-<img src="https://img.shields.io/badge/GitHub-Ram--kumar--S--18-18181B?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/GITHUB-18181B?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://ramkumars-portfolio.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-ramkumars--portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=FFFFFF"/>
-</a>
+<br/><br/>
+
+`Chennai, India`  ·  `Software Engineering`  ·  `AI / ML`  ·  `Full Stack`
 
 </div>
 
@@ -407,9 +382,10 @@ open_to:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,45:4C1D95,75:6D28D9,100:1E1B4B&height=120&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:7C3AED,40:4C1D95,70:1A1033,100:0B0614" width="100%"/>
 
-### <sub>Build with purpose. Engineer with intent. Ship with impact.</sub>
+### Build with purpose. Engineer with intent.
+
+<sub>Always learning · Always building · Always improving</sub>
 
 </div>
-```
