@@ -1,75 +1,253 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=RAMKUMAR%20S&fontSize=52&fontAlignY=35&fontColor=FFFFFF&desc=SOFTWARE%20ENGINEERING%20%7C%20AI%20%2F%20ML%20%7C%20FULL%20STACK&descAlignY=58&descSize=16&animation=fadeIn&color=0:090513,35:170F2E,65:3B1A78,100:6D28D9" width="100%" />
+<a href="https://github.com/Ram-kumar-S-18">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&section=header&text=RAMKUMAR%20S&fontSize=56&fontAlignY=35&fontColor=FFFFFF&desc=SOFTWARE%20ENGINEERING%20%7C%20AI%20%2F%20ML%20%7C%20FULL%20STACK&descAlignY=58&descSize=16&animation=fadeIn&color=0:07030F,30:140A2B,60:3B176D,85:6D28D9,100:8B5CF6" width="100%" />
+</a>
 
 <br>
 
 <a href="https://readme-typing-svg.demolab.com">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=C4B5FD&center=true&vCenter=true&width=820&height=40&lines=I+build+software+that+people+can+actually+use.;From+clean+interfaces+to+AI-powered+workflows.;Engineering+with+curiosity%2C+clarity%2C+and+purpose." alt="Typing introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=C4B5FD&center=true&vCenter=true&width=850&height=42&lines=I+build+software+that+people+can+actually+use.;I+turn+ideas+into+clean%2C+useful+digital+products.;I+explore+AI+where+it+creates+real+value.;Always+learning.+Always+building." alt="Typing introduction">
 </a>
 
 <br><br>
 
 <a href="https://ramkumars-portfolio.netlify.app/">
-<img src="https://img.shields.io/badge/PORTFOLIO-7C3AED?style=for-the-badge&logo=vercel&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/Portfolio-Explore-7C3AED?style=for-the-badge&logo=vercel&logoColor=ffffff">
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/ramkumars18/">
-<img src="https://img.shields.io/badge/LINKEDIN-4F46E5?style=for-the-badge&logo=linkedin&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=ffffff">
 </a>
 &nbsp;
 <a href="mailto:ramkumarsoffl@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-6D28D9?style=for-the-badge&logo=gmail&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/Email-Contact-6D28D9?style=for-the-badge&logo=gmail&logoColor=ffffff">
 </a>
 &nbsp;
-<a href="https://github.com/Ram-kumar-S-18">
-<img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=ffffff" />
+<a href="tel:+919551733526">
+<img src="https://img.shields.io/badge/Phone-9551733526-312E81?style=for-the-badge&logo=phone&logoColor=ffffff">
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Ram-kumar-S-18&label=PROFILE%20VIEWS&style=flat-square&color=7C3AED" />
+<a href="https://github.com/Ram-kumar-S-18">
+<img src="https://komarev.com/ghpvc/?username=Ram-kumar-S-18&label=PROFILE%20VIEWS&style=flat-square&color=7C3AED">
+</a>
 &nbsp;
-<img src="https://img.shields.io/github/followers/Ram-kumar-S-18?label=FOLLOWERS&style=flat-square&color=4C1D95&logo=github&logoColor=ffffff" />
+<a href="https://github.com/Ram-kumar-S-18?tab=followers">
+<img src="https://img.shields.io/github/followers/Ram-kumar-S-18?label=FOLLOWERS&style=flat-square&color=4C1D95&logo=github&logoColor=ffffff">
+</a>
+&nbsp;
+<a href="https://github.com/Ram-kumar-S-18?tab=stars">
+<img src="https://img.shields.io/github/stars/Ram-kumar-S-18?label=STARS&style=flat-square&color=6D28D9&logo=github&logoColor=ffffff">
+</a>
+&nbsp;
+<a href="https://github.com/Ram-kumar-S-18?tab=repositories">
+<img src="https://img.shields.io/badge/Repositories-28-1E1B4B?style=flat-square&logo=github&logoColor=ffffff">
+</a>
 
 </div>
 
 ---
 
-## About Me
+<div align="center">
 
-I’m Ramkumar, an Information Technology graduate focused on software engineering, full-stack development, and practical AI.
+## ABOUT
 
-I like taking an idea and turning it into something people can actually interact with — designing the interface, writing the application, connecting the backend, working with data and APIs, and adding AI where it genuinely makes the product better.
+<sub>Engineering • Product Thinking • AI • Web</sub>
 
-I’m especially interested in modern web applications, AI-enabled products, backend engineering, and the space where good engineering meets good product design.
-
-I’m still learning, but I learn by building.
+</div>
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="58%" valign="top">
 
-### What I enjoy
+### Hello, I'm Ramkumar.
 
-* Building web applications
-* Designing clean user experiences
-* Working with Python and Java
-* Connecting APIs and services
-* Exploring AI in real products
-* Turning ideas into working software
+I’m an Information Technology engineer interested in building software that is useful, easy to understand, and enjoyable to use.
+
+I like working across the full journey of a product — understanding the problem, designing the interface, building the application, connecting APIs and data, and improving the experience through iteration.
+
+My strongest interests are **software engineering, full-stack development, modern web experiences, and practical AI**.
+
+I learn best by building, testing ideas, breaking things, fixing them, and shipping better versions.
 
 </td>
-<td width="50%" valign="top">
 
-### What I’m looking for
+<td width="42%" valign="top">
 
-* Software Engineering
-* Full Stack Development
-* AI / ML Engineering
-* Frontend Engineering
-* Product Engineering
-* Open-source collaboration
+### RIGHT NOW
+
+```text
+BUILDING
+AI-enabled applications
+Full-stack experiences
+Developer-focused tools
+
+LEARNING
+Python
+Java + Spring Boot
+DSA
+System Design
+AI Engineering
+
+EXPLORING
+Generative AI
+Cloud
+Backend Architecture
+Product Engineering
+```
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<a href="https://github.com/Ram-kumar-S-18?tab=repositories">
+<img src="https://img.shields.io/badge/VIEW%20PROJECTS-7C3AED?style=for-the-badge&logo=github&logoColor=ffffff">
+</a>
+&nbsp;
+<a href="https://ramkumars-portfolio.netlify.app/">
+<img src="https://img.shields.io/badge/OPEN%20PORTFOLIO-4F46E5?style=for-the-badge&logo=vercel&logoColor=ffffff">
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## THE STACK
+
+<sub>Click the categories to explore what I use.</sub>
+
+</div>
+
+<details>
+<summary><strong>01 · PROGRAMMING</strong></summary>
+
+<br>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css&theme=dark">
+
+</div>
+
+<br>
+
+`Python` · `Java` · `JavaScript` · `HTML` · `CSS` · `SQL`
+
+</details>
+
+<details>
+<summary><strong>02 · FRONTEND</strong></summary>
+
+<br>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,html,css,javascript,tailwind&theme=dark">
+
+</div>
+
+<br>
+
+`React` · `HTML` · `CSS` · `JavaScript` · `Responsive UI` · `Interactive Web Experiences`
+
+</details>
+
+<details>
+<summary><strong>03 · BACKEND & DATA</strong></summary>
+
+<br>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,spring,mysql,mongodb,kafka&theme=dark">
+
+</div>
+
+<br>
+
+`Spring Boot` · `Node.js` · `MySQL` · `MongoDB` · `Kafka` · `REST APIs`
+
+<br>
+
+`Pandas` · `NumPy` · `SQL` · `Excel` · `Power BI`
+
+</details>
+
+<details>
+<summary><strong>04 · CLOUD, DEVOPS & TOOLS</strong></summary>
+
+<br>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,docker,aws,azure,vscode,idea,maven&theme=dark">
+
+</div>
+
+<br>
+
+`Git` · `GitHub` · `Linux` · `Docker` · `AWS` · `Azure` · `VS Code` · `IntelliJ IDEA` · `Maven`
+
+</details>
+
+---
+
+<div align="center">
+
+## WHAT I LIKE BUILDING
+
+</div>
+
+<table>
+<tr>
+<td width="33%" align="center" valign="top">
+
+### SOFTWARE
+
+I enjoy turning ideas into complete applications with clean interfaces, sensible architecture, and practical functionality.
+
+<br>
+
+`Web Apps`
+`APIs`
+`Automation`
+`Developer Tools`
+
+</td>
+
+<td width="33%" align="center" valign="top">
+
+### AI
+
+I’m interested in using AI as part of a real product — especially when it removes repetitive work or improves the user experience.
+
+<br>
+
+`AI Integration`
+`Automation`
+`Prompt Engineering`
+`Intelligent Features`
+
+</td>
+
+<td width="33%" align="center" valign="top">
+
+### SYSTEMS
+
+I also enjoy projects where software interacts with hardware, sensors, or real-world environments.
+
+<br>
+
+`AR`
+`IoT`
+`Embedded Systems`
+`Sensor Integration`
 
 </td>
 </tr>
@@ -77,179 +255,226 @@ I’m still learning, but I learn by building.
 
 ---
 
-## Tech Stack
-
 <div align="center">
 
-### Languages
+## SELECTED WORK
 
-<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,sql&theme=dark" />
-
-<br><br>
-
-### Development
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,spring,mysql,mongodb&theme=dark" />
-
-<br><br>
-
-### Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=git,github,linux,docker,aws,azure,vscode,idea,maven&theme=dark" />
+<sub>Open a project to explore it.</sub>
 
 </div>
 
----
+<details>
+<summary><strong>AR GUIDED INDUSTRIAL TRAINING SYSTEM</strong> · AR + Embedded Systems</summary>
 
-## What I Work With
+<br>
 
-| Area               | Technologies                                             |
-| :----------------- | :------------------------------------------------------- |
-| **Programming**    | Python · Java · JavaScript · SQL                         |
-| **Frontend**       | HTML · CSS · JavaScript · React                          |
-| **Backend**        | Java · Spring Boot · Node.js                             |
-| **Data**           | Pandas · NumPy · SQL · Excel · Power BI                  |
-| **AI / ML**        | AI integration · ML fundamentals · AI-assisted workflows |
-| **Systems**        | Linux · APIs · OAuth · Kafka                             |
-| **Cloud & DevOps** | AWS · Azure · Docker · Git · GitHub                      |
-| **Other**          | AR · IoT · Embedded Systems                              |
+My final-year project explores a different way of teaching industrial machine concepts.
 
----
+Instead of requiring a physical machine for every training session, the system combines an AR experience with embedded-system simulation so that learners can interact with a virtual representation of the machine and its controls.
 
-## Selected Work
+| Component       | Details                                                  |
+| :-------------- | :------------------------------------------------------- |
+| **AR**          | Interactive machine-oriented learning experience         |
+| **Hardware**    | ESP-12E, Arduino and sensors                             |
+| **Inputs**      | Humidity, vibration, voltage, switches and buttons       |
+| **Interaction** | QR-triggered AR deployment                               |
+| **Focus**       | Hardware + software integration                          |
+| **Goal**        | Make industrial training more accessible and interactive |
 
-### AR Guided Industrial Training System
+**Core technologies:** `AR` `IoT` `ESP-12E` `Arduino` `Sensors` `Embedded Systems`
 
-My final-year engineering project explores how augmented reality and embedded systems can make industrial training more accessible.
+</details>
 
-Instead of depending entirely on a physical machine, the system uses AR to create an interactive training environment and connects it with simulated machine controls and sensor inputs.
+<details>
+<summary><strong>STUDYPORTAL</strong> · Student Learning Platform</summary>
 
-**Core areas:** `AR` `ESP-12E` `Arduino` `Sensors` `IoT` `Embedded Systems`
+<br>
 
----
+A student-focused web platform designed to bring learning resources into one simple place.
 
-### StudyPortal
-
-A student-focused web platform built to bring learning resources together in one place.
-
-The goal was simple: make useful academic content easier to find and easier to use.
+The project started with a practical problem: useful resources become difficult to manage when they are scattered across different places. The goal was to make the experience easier to navigate and easier to maintain.
 
 **Built with:** `HTML` `CSS` `JavaScript`
 
 **Live:** [studyportalbyram.netlify.app](https://studyportalbyram.netlify.app/)
 
----
+</details>
 
-### Sparkle'25
+<details>
+<summary><strong>SPARKLE'25</strong> · Symposium Website</summary>
 
-A custom symposium website created with a futuristic visual direction and an emphasis on interaction, responsive design, and a strong digital identity.
+<br>
 
-This project was also a chance to explore how much a well-designed frontend can change the way people experience an event.
+A custom website created for Sparkle'25 with a strong futuristic visual identity.
+
+The focus was not only on presenting information, but on making the event feel like a digital experience through visual hierarchy, interaction, responsive layouts, and motion.
 
 **Built with:** `HTML` `CSS` `JavaScript`
 
 **Live:** [sparkle-25.netlify.app](https://sparkle-25.netlify.app/)
 
----
+</details>
 
-### Gmail Phishing Detection Extension
+<details>
+<summary><strong>GMAIL PHISHING DETECTION EXTENSION</strong> · Browser Security</summary>
 
-A Chrome extension concept focused on identifying potentially suspicious emails inside Gmail.
+<br>
 
-The project explores browser extensions, Gmail API integration, OAuth, and automated security-oriented workflows.
+A Chrome extension concept exploring how suspicious email detection could happen directly inside Gmail.
+
+The project involved browser-extension development, Gmail API integration, OAuth, and an automated analysis workflow.
 
 **Built with:** `JavaScript` `Chrome Extensions` `Gmail API` `OAuth`
 
----
+</details>
 
-### Personal Portfolio
+<details>
+<summary><strong>PERSONAL DEVELOPER PORTFOLIO</strong> · Web + Product Design</summary>
 
-My portfolio is where I experiment with interfaces, animations, interactions, AI-assisted ideas, and ways of presenting technical work better.
+<br>
+
+My portfolio is also a place to experiment.
+
+I use it to explore better interfaces, motion, responsive layouts, AI-assisted features, and different ways of presenting technical work without making the experience feel cluttered.
 
 **Live:** [ramkumars-portfolio.netlify.app](https://ramkumars-portfolio.netlify.app/)
 
----
-
-## How I Think About Software
-
-```text
-Understand the problem
-        ↓
-Make the experience simple
-        ↓
-Choose the right technology
-        ↓
-Build the product
-        ↓
-Connect the pieces
-        ↓
-Test and improve
-        ↓
-Ship
-```
-
-Good software does not need to feel complicated to the person using it.
+</details>
 
 ---
 
-## Currently
+<div align="center">
+
+## HOW I BUILD
+
+</div>
 
 <table>
 <tr>
-<td width="25%" align="center">
+<td align="center">
 
-**LEARNING**
+**01**
 
-</td>
-<td width="25%" align="center">
+<br>
 
-**BUILDING**
-
-</td>
-<td width="25%" align="center">
-
-**EXPLORING**
+Understand
 
 </td>
-<td width="25%" align="center">
+<td align="center">
 
-**LOOKING FOR**
+→
+
+</td>
+<td align="center">
+
+**02**
+
+<br>
+
+Simplify
+
+</td>
+<td align="center">
+
+→
+
+</td>
+<td align="center">
+
+**03**
+
+<br>
+
+Design
+
+</td>
+<td align="center">
+
+→
+
+</td>
+<td align="center">
+
+**04**
+
+<br>
+
+Build
+
+</td>
+<td align="center">
+
+→
+
+</td>
+<td align="center">
+
+**05**
+
+<br>
+
+Improve
+
+</td>
+<td align="center">
+
+→
+
+</td>
+<td align="center">
+
+**06**
+
+<br>
+
+Ship
 
 </td>
 </tr>
+</table>
 
+<div align="center">
+
+<sub>I care about the engineering behind the product and the experience in front of it.</sub>
+
+</div>
+
+---
+
+<div align="center">
+
+## GITHUB SIGNAL
+
+</div>
+
+<table>
 <tr>
-<td valign="top">
+<td align="center" width="25%">
 
-Python
-Java & Spring Boot
-DSA
-System Design
-AI Engineering
+<a href="https://github.com/Ram-kumar-S-18?tab=repositories">
+<img src="https://img.shields.io/badge/28-REPOSITORIES-4C1D95?style=for-the-badge&logo=github&logoColor=ffffff">
+</a>
 
 </td>
-<td valign="top">
+<td align="center" width="25%">
 
-AI-enabled web apps
-Full-stack products
-Developer tools
-Better interfaces
-
-</td>
-<td valign="top">
-
-Generative AI
-Cloud-native systems
-Backend architecture
-Product engineering
+<a href="https://github.com/Ram-kumar-S-18?tab=followers">
+<img src="https://img.shields.io/github/followers/Ram-kumar-S-18?label=FOLLOWERS&style=for-the-badge&color=6D28D9&logo=github&logoColor=ffffff">
+</a>
 
 </td>
-<td valign="top">
+<td align="center" width="25%">
 
-Software roles
-AI / ML roles
-Full-stack roles
-Open-source work
+<a href="https://github.com/Ram-kumar-S-18?tab=stars">
+<img src="https://img.shields.io/github/stars/Ram-kumar-S-18?label=STARS&style=for-the-badge&color=7C3AED&logo=github&logoColor=ffffff">
+</a>
+
+</td>
+<td align="center" width="25%">
+
+<a href="https://github.com/Ram-kumar-S-18">
+<img src="https://img.shields.io/badge/GITHUB-OPEN-111827?style=for-the-badge&logo=github&logoColor=ffffff">
+</a>
 
 </td>
 </tr>
@@ -257,47 +482,109 @@ Open-source work
 
 ---
 
-## GitHub
+<div align="center">
 
-I use GitHub as my place to build, experiment, learn, and gradually improve the way I write software.
+## CONTRIBUTION ACTIVITY
 
-My profile is a work in progress — just like my engineering journey.
+</div>
 
 <div align="center">
 
-<a href="https://github.com/Ram-kumar-S-18?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE%20MY%20REPOSITORIES-4C1D95?style=for-the-badge&logo=github&logoColor=ffffff" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ram-kumar-S-18&bg_color=090513&color=C4B5FD&line=8B5CF6&point=FFFFFF&area=true&area_color=4C1D95&hide_border=true&custom_title=BUILDING%20IN%20PUBLIC" width="100%">
+
+</div>
+
+---
+
+<div align="center">
+
+## NOW
+
+</div>
+
+<table>
+<tr>
+<td width="25%" valign="top">
+
+### LEARNING
+
+Python
+Java + Spring Boot
+DSA
+System Design
+AI Engineering
+
+</td>
+
+<td width="25%" valign="top">
+
+### BUILDING
+
+AI-enabled apps
+Full-stack products
+Developer tools
+Interactive web experiences
+
+</td>
+
+<td width="25%" valign="top">
+
+### EXPLORING
+
+Generative AI
+Cloud
+Backend architecture
+Product engineering
+
+</td>
+
+<td width="25%" valign="top">
+
+### OPEN TO
+
+Software Engineering
+AI / ML
+Full Stack
+Frontend
+Open Source
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## LET'S CONNECT
+
+<br>
+
+<a href="https://ramkumars-portfolio.netlify.app/">
+<img src="https://img.shields.io/badge/PORTFOLIO-7C3AED?style=for-the-badge&logo=vercel&logoColor=ffffff">
 </a>
 
  
 
-<a href="https://github.com/Ram-kumar-S-18?tab=stars">
-<img src="https://img.shields.io/badge/SEE%20WHAT%20I%20STAR-6D28D9?style=for-the-badge&logo=github&logoColor=ffffff" />
-</a>
-
-</div>
-
----
-
-## Let’s Connect
-
-<div align="center">
-
-<a href="https://ramkumars-portfolio.netlify.app/">
-<img src="https://img.shields.io/badge/PORTFOLIO-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=ffffff" />
-</a>
-
 <a href="https://www.linkedin.com/in/ramkumars18/">
-<img src="https://img.shields.io/badge/LINKEDIN-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/LINKEDIN-4F46E5?style=for-the-badge&logo=linkedin&logoColor=ffffff">
 </a>
+
+ 
 
 <a href="mailto:ramkumarsoffl@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-Say%20Hello-6D28D9?style=for-the-badge&logo=gmail&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/EMAIL-6D28D9?style=for-the-badge&logo=gmail&logoColor=ffffff">
+</a>
+
+ 
+
+<a href="tel:+919551733526">
+<img src="https://img.shields.io/badge/PHONE-312E81?style=for-the-badge&logo=phone&logoColor=ffffff">
 </a>
 
 <br><br>
 
-<sub>Chennai, India · Software Engineering · AI / ML · Full Stack</sub>
+<sub>Chennai, India · Software Engineering · AI / ML · Full Stack Development</sub>
 
 </div>
 
@@ -305,7 +592,7 @@ My profile is a work in progress — just like my engineering journey.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:6D28D9,40:3B1A78,70:170F2E,100:090513" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:8B5CF6,35:6D28D9,65:3B176D,100:07030F" width="100%">
 
 ### Build things worth using.
 
