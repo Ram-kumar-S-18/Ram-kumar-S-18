@@ -1,42 +1,36 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&section=header&text=RAMKUMAR%20S&fontSize=56&fontAlignY=35&fontColor=FFFFFF&desc=SOFTWARE%20ENGINEERING%20%7C%20AI%20%2F%20ML%20%7C%20FULL%20STACK&descAlignY=58&descSize=16&animation=fadeIn&color=0:07030F,30:120925,60:351665,85:6D28D9,100:8B5CF6" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=245&section=header&text=RAMKUMAR%20S&fontSize=58&fontAlignY=35&fontColor=FFFFFF&desc=SOFTWARE%20ENGINEERING%20%E2%80%A2%20AI%20%E2%80%A2%20FULL%20STACK&descAlignY=58&descSize=16&animation=fadeIn&color=0:07050D,30:120B24,55:29134D,78:5B21B6,100:8B5CF6" width="100%" />
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=C4B5FD&center=true&vCenter=true&width=850&height=42&lines=I+build+software+that+people+can+actually+use.;I+turn+ideas+into+clean%2C+useful+digital+products.;I+explore+AI+where+it+creates+real+value.;Always+learning.+Always+building." alt="Typing introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=C4B5FD&center=true&vCenter=true&width=900&height=42&lines=I+build+software+that+people+can+actually+use.;I+care+about+the+product%2C+not+just+the+code.;I+use+AI+when+it+makes+the+experience+better.;Learning+by+building%2C+building+by+shipping." alt="Typing introduction" />
 
 <br><br>
 
 <a href="https://ramkumars-portfolio.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-Explore-7C3AED?style=for-the-badge&logo=vercel&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/PORTFOLIO-EXPLORE-7C3AED?style=for-the-badge&logo=vercel&logoColor=FFFFFF" />
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/ramkumars18/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-4F46E5?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" />
 </a>
 &nbsp;
 <a href="mailto:ramkumarsoffl@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-6D28D9?style=for-the-badge&logo=gmail&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/EMAIL-SAY%20HELLO-6D28D9?style=for-the-badge&logo=gmail&logoColor=FFFFFF" />
 </a>
 &nbsp;
-<a href="tel:+919551733526">
-<img src="https://img.shields.io/badge/Phone-Contact-312E81?style=for-the-badge&logo=phone&logoColor=ffffff" />
+<a href="https://github.com/Ram-kumar-S-18">
+<img src="https://img.shields.io/badge/GITHUB-VIEW%20WORK-111827?style=for-the-badge&logo=github&logoColor=FFFFFF" />
 </a>
 
 <br><br>
 
-<a href="https://github.com/Ram-kumar-S-18">
 <img src="https://komarev.com/ghpvc/?username=Ram-kumar-S-18&label=PROFILE%20VIEWS&style=flat-square&color=7C3AED" />
-</a>
 &nbsp;
-<a href="https://github.com/Ram-kumar-S-18?tab=followers">
-<img src="https://img.shields.io/github/followers/Ram-kumar-S-18?label=FOLLOWERS&style=flat-square&color=4C1D95&logo=github&logoColor=ffffff" />
-</a>
+<img src="https://img.shields.io/github/followers/Ram-kumar-S-18?label=FOLLOWERS&style=flat-square&color=4C1D95&logo=github&logoColor=FFFFFF" />
 &nbsp;
-<a href="https://github.com/Ram-kumar-S-18?tab=stars">
-<img src="https://img.shields.io/github/stars/Ram-kumar-S-18?label=STARS&style=flat-square&color=6D28D9&logo=github&logoColor=ffffff" />
-</a>
+<img src="https://img.shields.io/github/stars/Ram-kumar-S-18?label=STARS&style=flat-square&color=6D28D9&logo=github&logoColor=FFFFFF" />
 
 </div>
 
@@ -44,51 +38,54 @@
 
 <div align="center">
 
-## ABOUT
+## ABOUT ME
 
-<sub>Software engineering • AI • Full-stack development • Product thinking</sub>
+<sub>Software engineering with a product mindset.</sub>
 
 </div>
 
 <table>
 <tr>
-<td width="58%" valign="top">
+<td width="62%" valign="top">
 
-### Hello, I'm Ramkumar.
+### Hi, I'm Ramkumar.
 
-I’m an Information Technology engineer who enjoys turning ideas into software that feels simple on the surface and thoughtful underneath.
+I'm an Information Technology engineer who enjoys turning ideas into software that feels simple, useful, and well thought out.
 
-I like working across the full journey of a product: understanding the problem, shaping the interface, building the application, connecting APIs and data, and improving the experience through iteration.
+I like working across the whole product journey — understanding the problem, shaping the experience, building the application, connecting APIs and data, and improving the result through iteration.
 
-My main interests are **software engineering, full-stack development, modern web experiences, and practical AI**.
+My strongest interests are **software engineering, full-stack development, modern web experiences, and practical AI**.
 
-I learn by building, experimenting, breaking things, fixing them, and shipping better versions.
+I don't want AI to be decoration. I want it to solve something meaningful — reduce repetitive work, make a workflow smarter, or make a product easier to use.
+
+Most of what I learn comes from building real projects, experimenting with new technologies, and improving things one version at a time.
 
 </td>
 
-<td width="42%" valign="top">
+<td width="38%" valign="top">
 
-### RIGHT NOW
+### WHAT MATTERS TO ME
 
 ```text
-Building
-AI-enabled applications
-Full-stack products
-Interactive web experiences
+Good software should be
 
-Learning
-Python
-Java + Spring Boot
-DSA
-System Design
-AI Engineering
-
-Exploring
-Generative AI
-Cloud
-Backend Architecture
-Product Engineering
+simple to use
+easy to understand
+pleasant to interact with
+thoughtful underneath
+useful in the real world
 ```
+
+<br>
+
+### OPEN TO
+
+`Software Engineering`
+`AI / ML`
+`Full Stack`
+`Frontend`
+`Product Engineering`
+`Open Source`
 
 </td>
 </tr>
@@ -96,12 +93,14 @@ Product Engineering
 
 <div align="center">
 
-<a href="https://github.com/Ram-kumar-S-18?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE%20PROJECTS-7C3AED?style=for-the-badge&logo=github&logoColor=ffffff" />
-</a>
-&nbsp;
 <a href="https://ramkumars-portfolio.netlify.app/">
-<img src="https://img.shields.io/badge/VISIT%20PORTFOLIO-4F46E5?style=for-the-badge&logo=vercel&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/SEE%20MY%20WORK-7C3AED?style=for-the-badge&logo=vercel&logoColor=FFFFFF" />
+</a>
+
+ 
+
+<a href="https://github.com/Ram-kumar-S-18?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE%20GITHUB-4F46E5?style=for-the-badge&logo=github&logoColor=FFFFFF" />
 </a>
 
 </div>
@@ -112,12 +111,12 @@ Product Engineering
 
 ## TECH STACK
 
-<sub>Open each section to explore the tools I use.</sub>
+<sub>Tools I use to think, build, connect and ship.</sub>
 
 </div>
 
-<details>
-<summary><strong>01 · PROGRAMMING</strong></summary>
+<details open>
+<summary><strong>01 · LANGUAGES</strong></summary>
 
 <br>
 
@@ -133,7 +132,7 @@ Product Engineering
 
 </details>
 
-<details>
+<details open>
 <summary><strong>02 · FRONTEND</strong></summary>
 
 <br>
@@ -146,7 +145,7 @@ Product Engineering
 
 <br>
 
-`React` · `HTML` · `CSS` · `JavaScript` · `Responsive UI` · `Interactive Web Experiences`
+`React` · `HTML` · `CSS` · `JavaScript` · `Responsive Interfaces` · `Interactive Web Experiences`
 
 </details>
 
@@ -172,7 +171,24 @@ Product Engineering
 </details>
 
 <details>
-<summary><strong>04 · CLOUD, DEVOPS & TOOLS</strong></summary>
+<summary><strong>04 · AI & INTELLIGENT PRODUCTS</strong></summary>
+
+<br>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,opencv&theme=dark" />
+
+</div>
+
+<br>
+
+`AI Integration` · `AI-assisted Applications` · `Prompt Engineering` · `Automation` · `ML Fundamentals` · `Data Workflows`
+
+</details>
+
+<details>
+<summary><strong>05 · CLOUD, DEVOPS & TOOLS</strong></summary>
 
 <br>
 
@@ -192,56 +208,69 @@ Product Engineering
 
 <div align="center">
 
-## WHAT I LIKE TO BUILD
+## WHAT I BUILD
+
+<sub>Three areas I naturally gravitate toward.</sub>
 
 </div>
 
 <table>
 <tr>
-<td width="33%" align="center" valign="top">
+
+<td width="33%" valign="top">
 
 ### SOFTWARE
 
-Turning ideas into useful applications with clean interfaces and practical architecture.
+I enjoy taking an idea and turning it into a complete, usable application.
 
 <br>
+
+**I like working on**
 
 `Web Apps`
 `APIs`
 `Automation`
 `Developer Tools`
+`Interactive Interfaces`
 
 </td>
 
-<td width="33%" align="center" valign="top">
+<td width="33%" valign="top">
 
-### AI
+### INTELLIGENCE
 
-Using AI where it improves the product instead of adding complexity for its own sake.
+I’m interested in AI when it genuinely improves a product or removes unnecessary manual work.
 
 <br>
+
+**I like exploring**
 
 `AI Integration`
+`Intelligent Workflows`
 `Automation`
-`Prompt Engineering`
-`Intelligent Features`
+`NLP Concepts`
+`AI-assisted UX`
 
 </td>
 
-<td width="33%" align="center" valign="top">
+<td width="33%" valign="top">
 
-### SYSTEMS
+### CONNECTED SYSTEMS
 
-Exploring projects where software connects with hardware and the physical world.
+I also enjoy projects where software reaches beyond the screen and interacts with the real world.
 
 <br>
+
+**I like exploring**
 
 `AR`
 `IoT`
 `Embedded Systems`
-`Sensor Integration`
+`Sensors`
+`Hardware + Software`
 
 </td>
+
 </tr>
 </table>
 
@@ -251,85 +280,189 @@ Exploring projects where software connects with hardware and the physical world.
 
 ## SELECTED WORK
 
-<sub>Open a project to see more.</sub>
+<sub>Projects that shaped how I think about software.</sub>
 
 </div>
 
 <details open>
-<summary><strong>AR GUIDED INDUSTRIAL TRAINING SYSTEM</strong> · AR + Embedded Systems</summary>
+<summary><strong>01 · AR GUIDED INDUSTRIAL TRAINING SYSTEM</strong></summary>
 
 <br>
 
-My final-year project explores how augmented reality and embedded systems can make industrial training more accessible.
+### Making industrial learning more interactive.
 
-Instead of depending entirely on a physical machine for every training session, the system combines an AR experience with simulated machine controls and sensor inputs.
+My final-year project explores how **augmented reality and embedded systems** can create a more accessible industrial-training experience.
 
-| Component       | Details                                                  |
-| :-------------- | :------------------------------------------------------- |
-| **AR**          | Interactive machine-oriented learning experience         |
-| **Hardware**    | ESP-12E, Arduino and sensors                             |
-| **Inputs**      | Humidity, vibration, voltage, switches and buttons       |
-| **Interaction** | QR-triggered AR deployment                               |
-| **Focus**       | Hardware + software integration                          |
-| **Goal**        | Make industrial training more interactive and accessible |
+Instead of depending entirely on a physical machine for every training session, the system combines AR interaction with simulated machine controls and real sensor inputs.
+
+| Area            | What I worked on                                   |
+| :-------------- | :------------------------------------------------- |
+| **Experience**  | AR-guided machine learning environment             |
+| **Hardware**    | ESP-12E, Arduino, sensors                          |
+| **Inputs**      | Humidity, vibration, voltage, switches and buttons |
+| **Interaction** | QR-triggered AR deployment                         |
+| **Integration** | Hardware + software communication                  |
+| **Goal**        | Make machine-oriented learning more interactive    |
+
+<br>
 
 `AR` `IoT` `ESP-12E` `Arduino` `Sensors` `Embedded Systems`
 
 </details>
 
 <details>
-<summary><strong>STUDYPORTAL</strong> · Student Learning Platform</summary>
+<summary><strong>02 · STUDYPORTAL</strong></summary>
 
 <br>
 
-A student-focused web platform built to bring useful learning resources together in one place.
+### One place for learning resources.
 
-The goal was simple: make resources easier to find, easier to navigate, and easier to maintain.
+A student-focused web platform created to bring useful academic resources together in a cleaner and easier-to-navigate experience.
 
-**Built with:** `HTML` `CSS` `JavaScript`
+The project came from a simple idea: when resources are scattered, the learning experience becomes harder than it needs to be.
 
-**Live:** [studyportalbyram.netlify.app](https://studyportalbyram.netlify.app/)
+**Built with**
+
+`HTML` `CSS` `JavaScript`
+
+**Live**
+
+[studyportalbyram.netlify.app](https://studyportalbyram.netlify.app/)
 
 </details>
 
 <details>
-<summary><strong>SPARKLE'25</strong> · Symposium Website</summary>
+<summary><strong>03 · SPARKLE'25</strong></summary>
 
 <br>
 
-A custom symposium website built around a futuristic visual identity, responsive layouts, interaction, and strong visual hierarchy.
+### Turning an event website into an experience.
 
-The project was as much about the experience as the information itself.
+A custom symposium website designed with a futuristic visual direction, responsive layouts, strong hierarchy, and interactive sections.
 
-**Built with:** `HTML` `CSS` `JavaScript`
+The goal wasn't just to show event information. It was to make the website feel like part of the event.
 
-**Live:** [sparkle-25.netlify.app](https://sparkle-25.netlify.app/)
+**Built with**
+
+`HTML` `CSS` `JavaScript`
+
+**Live**
+
+[sparkle-25.netlify.app](https://sparkle-25.netlify.app/)
 
 </details>
 
 <details>
-<summary><strong>GMAIL PHISHING DETECTION EXTENSION</strong> · Browser Security</summary>
+<summary><strong>04 · GMAIL PHISHING DETECTION EXTENSION</strong></summary>
 
 <br>
 
-A Chrome extension concept exploring how potentially suspicious emails could be analyzed directly inside Gmail.
+### Bringing security closer to the inbox.
 
-The project involved browser extensions, Gmail API integration, OAuth, and an automated analysis workflow.
+A Chrome extension concept exploring how potentially suspicious emails could be analysed directly inside Gmail.
 
-**Built with:** `JavaScript` `Chrome Extensions` `Gmail API` `OAuth`
+The project involved browser-extension development, Gmail API integration, OAuth, and an automated analysis workflow.
+
+**Built with**
+
+`JavaScript` `Chrome Extensions` `Gmail API` `OAuth`
 
 </details>
 
 <details>
-<summary><strong>PERSONAL DEVELOPER PORTFOLIO</strong> · Web + Product Design</summary>
+<summary><strong>05 · PERSONAL DEVELOPER PORTFOLIO</strong></summary>
 
 <br>
 
-My portfolio is also a place to experiment with better interfaces, motion, responsive layouts, AI-assisted ideas, and different ways of presenting technical work.
+### A portfolio that evolves with me.
 
-**Live:** [ramkumars-portfolio.netlify.app](https://ramkumars-portfolio.netlify.app/)
+My portfolio is more than a place to list projects. I use it to experiment with interfaces, motion, responsive layouts, AI-assisted ideas, and different ways of presenting technical work.
+
+**Live**
+
+[ramkumars-portfolio.netlify.app](https://ramkumars-portfolio.netlify.app/)
 
 </details>
+
+---
+
+<div align="center">
+
+## ENGINEERING APPROACH
+
+<sub>How I move from an idea to something people can use.</sub>
+
+</div>
+
+<table>
+<tr>
+<td align="center" width="16%">
+
+**01**
+
+<br>
+
+Understand
+
+</td>
+
+<td align="center" width="16%">
+
+**02**
+
+<br>
+
+Simplify
+
+</td>
+
+<td align="center" width="16%">
+
+**03**
+
+<br>
+
+Design
+
+</td>
+
+<td align="center" width="16%">
+
+**04**
+
+<br>
+
+Build
+
+</td>
+
+<td align="center" width="16%">
+
+**05**
+
+<br>
+
+Improve
+
+</td>
+
+<td align="center" width="16%">
+
+**06**
+
+<br>
+
+Ship
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<sub>I care about the engineering underneath the product and the experience on top of it.</sub>
+
+</div>
 
 ---
 
@@ -339,100 +472,33 @@ My portfolio is also a place to experiment with better interfaces, motion, respo
 
 </div>
 
+<table>
+<tr>
+<td width="12%" valign="top">
+
+**2026**
+
+</td>
+
+<td width="88%" valign="top">
+
 ### Software Engineering Job Simulation · JPMorgan Chase & Co. / Forage
 
-Worked through a software-engineering simulation based on a Java and Spring-based codebase.
+Worked through a practical software-engineering simulation using an existing Java/Spring codebase.
 
-The work involved understanding an existing project, working with Maven and Java 17, tracing backend workflows, exploring Kafka-based transaction processing, and debugging integration-test issues.
+The work involved understanding the project structure, working with Java 17 and Maven, tracing backend workflows, exploring Kafka-based transaction processing, and debugging integration-test issues.
 
 `Java` `Spring Boot` `Maven` `Kafka` `Git` `Debugging`
 
----
-
-<div align="center">
-
-## HOW I BUILD
-
-</div>
-
-<table>
-<tr>
-<td align="center"><strong>01</strong><br>Understand</td>
-<td align="center">→</td>
-<td align="center"><strong>02</strong><br>Simplify</td>
-<td align="center">→</td>
-<td align="center"><strong>03</strong><br>Design</td>
-<td align="center">→</td>
-<td align="center"><strong>04</strong><br>Build</td>
-<td align="center">→</td>
-<td align="center"><strong>05</strong><br>Improve</td>
-<td align="center">→</td>
-<td align="center"><strong>06</strong><br>Ship</td>
+</td>
 </tr>
 </table>
 
-<div align="center">
-
-<sub>I care about the engineering behind the product and the experience in front of it.</sub>
-
-</div>
-
 ---
 
 <div align="center">
 
-## GITHUB ACTIVITY
-
-<sub>Real profile activity and contribution history from GitHub.</sub>
-
-<br><br>
-
-<a href="https://github.com/Ram-kumar-S-18">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ram-kumar-S-18&theme=github_dark" width="100%" />
-</a>
-
-<br><br>
-
-<a href="https://github.com/Ram-kumar-S-18">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ram-kumar-S-18&theme=github_dark" width="49%" />
-</a>
-<a href="https://github.com/Ram-kumar-S-18">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ram-kumar-S-18&theme=github_dark&utcOffset=5.5" width="49%" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-## GITHUB STATS
-
-<br>
-
-<a href="https://github.com/Ram-kumar-S-18">
-<img src="https://github-readme-stats.vercel.app/api?username=Ram-kumar-S-18&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&bg_color=090513&title_color=C4B5FD&text_color=CBD5E1&icon_color=8B5CF6" height="180" />
-</a>
-
-  
-
-<a href="https://github.com/Ram-kumar-S-18">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ram-kumar-S-18&layout=compact&hide_border=true&langs_count=8&bg_color=090513&title_color=C4B5FD&text_color=CBD5E1" height="180" />
-</a>
-
-<br><br>
-
-<a href="https://github.com/Ram-kumar-S-18">
-<img src="https://streak-stats.demolab.com?user=Ram-kumar-S-18&hide_border=true&background=090513&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=94A3B8&dates=64748B&currStreakNum=FFFFFF&sideNums=FFFFFF" width="72%" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-## CURRENT FOCUS
+## CURRENTLY
 
 </div>
 
@@ -490,30 +556,82 @@ Open Source
 
 <div align="center">
 
-## LET'S CONNECT
+## GITHUB ACTIVITY
+
+<sub>My actual GitHub profile activity, contribution history and development patterns.</sub>
+
+<br><br>
+
+<a href="https://github.com/Ram-kumar-S-18">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ram-kumar-S-18&theme=github_dark" width="100%" />
+</a>
+
+<br><br>
+
+<a href="https://github.com/Ram-kumar-S-18">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ram-kumar-S-18&theme=github_dark" width="49%" />
+</a>
+
+<a href="https://github.com/Ram-kumar-S-18">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ram-kumar-S-18&theme=github_dark&utcOffset=5.5" width="49%" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## GITHUB INSIGHTS
+
+<br>
+
+<a href="https://github.com/Ram-kumar-S-18">
+<img src="https://github-readme-stats.vercel.app/api?username=Ram-kumar-S-18&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&bg_color=090513&title_color=C4B5FD&text_color=CBD5E1&icon_color=8B5CF6" height="180" />
+</a>
+
+  
+
+<a href="https://github.com/Ram-kumar-S-18">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ram-kumar-S-18&layout=compact&langs_count=8&hide_border=true&bg_color=090513&title_color=C4B5FD&text_color=CBD5E1" height="180" />
+</a>
+
+<br><br>
+
+<a href="https://github.com/Ram-kumar-S-18">
+<img src="https://streak-stats.demolab.com?user=Ram-kumar-S-18&hide_border=true&background=090513&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=94A3B8&dates=64748B&currStreakNum=FFFFFF&sideNums=FFFFFF" width="72%" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## FIND ME
 
 <br>
 
 <a href="https://ramkumars-portfolio.netlify.app/">
-<img src="https://img.shields.io/badge/PORTFOLIO-Explore-7C3AED?style=for-the-badge&logo=vercel&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/PORTFOLIO-7C3AED?style=for-the-badge&logo=vercel&logoColor=FFFFFF" />
 </a>
 
  
 
 <a href="https://www.linkedin.com/in/ramkumars18/">
-<img src="https://img.shields.io/badge/LINKEDIN-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/LINKEDIN-4F46E5?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" />
 </a>
 
  
 
 <a href="mailto:ramkumarsoffl@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-Say%20Hello-6D28D9?style=for-the-badge&logo=gmail&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/EMAIL-6D28D9?style=for-the-badge&logo=gmail&logoColor=FFFFFF" />
 </a>
 
  
 
-<a href="tel:+919551733526">
-<img src="https://img.shields.io/badge/PHONE-Contact-312E81?style=for-the-badge&logo=phone&logoColor=ffffff" />
+<a href="https://github.com/Ram-kumar-S-18">
+<img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=FFFFFF" />
 </a>
 
 <br><br>
@@ -526,7 +644,7 @@ Open Source
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:8B5CF6,35:6D28D9,65:351665,100:07030F" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:8B5CF6,35:6D28D9,65:29134D,100:07050D" width="100%" />
 
 ### Build things worth using.
 
